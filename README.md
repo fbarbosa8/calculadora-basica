@@ -27,7 +27,14 @@ Este projeto foi criado como parte do aprendizado inicial em Python, evoluindo d
 
 ---
 
+Autor
+
+Desenvolvido por Felipe Barbosa
+Estudante de Engenharia da Computação
+
 ## Como executar o projeto
+
+--- 
 
 1. Clone o repositório:
 ```bash
