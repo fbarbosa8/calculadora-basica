@@ -1,2 +1,11 @@
-# calculadora-basica
-Pede os numeros e a operação e realiza contas de (+ - * /)
+# Calculadora em Python
+
+Projeto de calculadora em Python com:
+- Validação de entradas
+- Uso de funções
+- Tratamento de erro de divisão por zero
+- Loop de execução controlado
+
+## Como executar
+```bash
+python calculadora.py
