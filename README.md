@@ -1,15 +1,34 @@
-# Calculadora em Python
+# Calculadora em Python (CLI)
 
-Projeto de uma calculadora funcional em Python com:
+Calculadora desenvolvida em Python para uso via terminal (CLI), com foco em boas práticas básicas de programação, validação de entradas e tratamento de erros.
 
-- Validação de entradas
-- Funções separadas
-- Tratamento de erros
-- Loop de execução
+Este projeto foi criado como parte do aprendizado inicial em Python, evoluindo de uma calculadora simples para uma versão mais estruturada e robusta.
 
-## Como rodar
+---
 
+## Funcionalidades
+
+- Operações matemáticas básicas:
+  - Soma (+)
+  - Subtração (-)
+  - Multiplicação (*)
+  - Divisão (/)
+- Validação de entradas numéricas
+- Tratamento de divisão por zero
+- Validação da operação escolhida
+- Execução contínua até o usuário decidir sair
+- Código organizado em funções
+
+---
+
+## Tecnologias utilizadas
+
+- Python 3.14.2
+
+---
+
+## Como executar o projeto
+
+1. Clone o repositório:
 ```bash
-git clone https://github.com/fbarbosa8/calculadora-basica
-cd calculadora-basica
-python calculadora.py
+git clone https://github.com/fbarbosa8/calculadora-basica.git
