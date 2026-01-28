@@ -1,11 +1,15 @@
 # Calculadora em Python
 
-Projeto de calculadora em Python com:
-- Validação de entradas
-- Uso de funções
-- Tratamento de erro de divisão por zero
-- Loop de execução controlado
+Projeto de uma calculadora funcional em Python com:
 
-## Como executar
+- Validação de entradas
+- Funções separadas
+- Tratamento de erros
+- Loop de execução
+
+## Como rodar
+
 ```bash
+git clone https://github.com/fbarbosa8/calculadora-basica
+cd calculadora-basica
 python calculadora.py
